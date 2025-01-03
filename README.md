@@ -9,9 +9,6 @@ Sou entusiasta de tecnologia, trabalho na área de tecnologia há mais de 37 ano
 
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horaciovasconcellos)](https://github.com/horaciovasconcellos/github-readme-stats)
-
 ![snake animation](https://github.com/horaciovasconcellos/horaciovasconcellos/blob/output/github-contribution-grid-snake2.svg)
 
-![snake animation](https://github.com/horaciovasconcellos/horaciovasconcellos/blob/output/github-contribution-grid-snake2.svg)
-
+[GitHub Status](https://www.githubstatus.com/)
