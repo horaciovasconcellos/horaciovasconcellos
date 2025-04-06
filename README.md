@@ -47,4 +47,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff33&height=120&section=footer"/>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 April 2021 - To: 06 April 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
